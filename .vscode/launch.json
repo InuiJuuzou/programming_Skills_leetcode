@@ -2,25 +2,23 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "C/C++: g++ build and debug active file",
+      "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${fileDirname}/${fileBasenameNoExtension}",
       "args": [],
       "stopAtEntry": false,
-      "cwd": "${workspaceFolder}",
-      "environment": [],
       "externalConsole": false,
+      "cwd": "/home/kanella/dvops/programming_Skills_leetcode/21_merge_2list",
+      "program": "/home/kanella/dvops/programming_Skills_leetcode/21_merge_2list/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "/usr/bin/gdb",
+      "miDebuggerPath": "gdb",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
           "text": "-enable-pretty-printing",
           "ignoreFailures": true
         }
-      ],
-      "preLaunchTask": "C/C++: g++ build active file"
+      ]
     }
   ]
 }
