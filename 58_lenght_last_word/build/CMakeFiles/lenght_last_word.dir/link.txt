@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lenght_last_word.dir/main.cpp.o -o lenght_last_word 

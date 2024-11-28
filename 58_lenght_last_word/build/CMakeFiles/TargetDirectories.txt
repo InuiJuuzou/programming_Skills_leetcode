@@ -1,0 +1,3 @@
+/home/kanella/dvops/programming_Skills_leetcode/58_lenght_last_word/build/CMakeFiles/lenght_last_word.dir
+/home/kanella/dvops/programming_Skills_leetcode/58_lenght_last_word/build/CMakeFiles/edit_cache.dir
+/home/kanella/dvops/programming_Skills_leetcode/58_lenght_last_word/build/CMakeFiles/rebuild_cache.dir
